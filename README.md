@@ -427,7 +427,7 @@ function drawUI() {
     );
 
     text(
-        "Game of Zaheen",
+        "GameByZaheen",
         W-15,
         52,
         13,
