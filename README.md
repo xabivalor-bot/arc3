@@ -427,7 +427,7 @@ function drawUI() {
     );
 
     text(
-        "GameByZaheen",
+        "ZaheenProduct",
         W-15,
         52,
         13,
